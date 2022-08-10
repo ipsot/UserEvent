@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\UserEvents\UserEvents\bin\Debug\UserEvents.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\UserEvents\UserEvents\obj\Debug\UserEvents.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\UserEvents\UserEvents\bin\Debug\UserEvents.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\UserEvents\UserEvents\bin\Debug\UserEvents.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\UserEvents\UserEvents\obj\Debug\UserEvents.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\UserEvents\UserEvents\obj\Debug\UserEvents.pdb
